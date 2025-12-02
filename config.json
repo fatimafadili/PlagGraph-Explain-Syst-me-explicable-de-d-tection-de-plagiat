@@ -1,0 +1,25 @@
+{
+  "preprocessing": {
+    "language": "french",
+    "min_word_length": 2,
+    "remove_stopwords": true,
+    "lemmatization": true
+  },
+  "similarity": {
+    "tfidf_features": 1000,
+    "min_hash_tables": 5,
+    "similarity_threshold": 0.6,
+    "jaccard_threshold": 0.5,
+    "ngram_range": [2, 4]
+  },
+  "explainability": {
+    "lime_features": 10,
+    "shap_samples": 100,
+    "segment_length": 50
+  },
+  "visualization": {
+    "output_format": ["png", "pdf"],
+    "dpi": 300,
+    "color_scheme": "plagiarism"
+  }
+}

@@ -1,0 +1,4 @@
+doc1_id,doc1_title,doc2_id,doc2_title,tfidf_cosine,jaccard,ngram_3,lcs_tokens,edit_distance,combined_score,decision
+doc_1,Deep Learning pour la Reconnaissance d'Images,doc_2,Avancées en Vision par Ordinateur,1.0,1.0,1.0,1.0,1.0,1.0,PLAGIAT
+doc_1,Deep Learning pour la Reconnaissance d'Images,doc_3,Traitement du Langage Naturel,0.0724,0.1053,0.0,0.0617,0.3038,0.0976,NON_PLAGIAT
+doc_2,Avancées en Vision par Ordinateur,doc_3,Traitement du Langage Naturel,0.0724,0.1053,0.0,0.0617,0.3038,0.0976,NON_PLAGIAT

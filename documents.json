@@ -1,0 +1,19 @@
+{
+  "documents": [
+    {
+      "id": "doc_1",
+      "title": "Les Réseaux de Neurones Convolutifs",
+      "content": "Les réseaux de neurones convolutifs (CNN) représentent l'état de l'art en reconnaissance d'images. Ces modèles de deep learning utilisent des couches convolutionnelles pour extraire des caractéristiques hiérarchiques des images. La performance des CNN a significativement dépassé les méthodes traditionnelles de vision par ordinateur. Des architectures populaires comme ResNet, VGG16 et Inception ont établi de nouveaux records sur des benchmarks comme ImageNet avec plus d'un million d'images étiquetées. L'apprentissage par transfert permet de fine-tuner ces modèles pré-entraînés pour des tâches spécifiques avec relativement peu de données d'entraînement supplémentaires."
+    },
+    {
+      "id": "doc_2", 
+      "title": "Les Convolutional Neural Networks",
+      "content": "Les réseaux de neurones convolutifs (CNN) constituent l'état de l'art dans le domaine de la reconnaissance d'images. Ces modèles de deep learning emploient des couches de convolution pour extraire des caractéristiques hiérarchiques à partir des images. Les performances des CNN ont considérablement surpassé les approches classiques de vision artificielle. Des architectures célèbres telles que ResNet, VGG16 et Inception ont établi des records sur des benchmarks comme ImageNet comportant plus d'un million d'images annotées. Le transfer learning permet d'adapter ces modèles pré-entraînés à des applications spécifiques avec relativement peu de données supplémentaires."
+    },
+    {
+      "id": "doc_3",
+      "title": "Traitement du Langage Naturel",
+      "content": "Les transformers ont révolutionné le traitement du langage naturel. Des modèles comme BERT et GPT utilisent des mécanismes d'attention multi-têtes pour capturer les dépendances contextuelles à longue portée dans le texte. Ces architectures permettent d'obtenir des performances state-of-the-art sur diverses tâches NLP telles que la classification de texte, la réponse à des questions, la traduction automatique et la génération de langage. Le prétraitement à grande échelle sur des corpus textuels massifs est essentiel pour obtenir des représentations sémantiques riches."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+RAPPORT DÉTAILLÉ - PLAGIAGRAPH-EXPLAIN
+==================================================
+
+Paire: doc_1 vs doc_2
+Score combiné: 1.000 | Décision: PLAGIAT
+Scores détaillés:
+  - TF-IDF Cosine: 1.000
+  - Jaccard: 1.000
+  - N-gram: 1.000
+  - LCS Tokens: 1.000
+  - Edit Distance: 1.000
+------------------------------
+Paire: doc_1 vs doc_3
+Score combiné: 0.098 | Décision: NON_PLAGIAT
+Scores détaillés:
+  - TF-IDF Cosine: 0.072
+  - Jaccard: 0.105
+  - N-gram: 0.000
+  - LCS Tokens: 0.062
+  - Edit Distance: 0.304
+------------------------------
+Paire: doc_2 vs doc_3
+Score combiné: 0.098 | Décision: NON_PLAGIAT
+Scores détaillés:
+  - TF-IDF Cosine: 0.072
+  - Jaccard: 0.105
+  - N-gram: 0.000
+  - LCS Tokens: 0.062
+  - Edit Distance: 0.304
+------------------------------
